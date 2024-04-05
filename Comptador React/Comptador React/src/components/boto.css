@@ -1,0 +1,12 @@
+bottom {
+    padding: 2px;
+    border-radius: 10px;
+}
+
+.btnClick {
+    background-color: rgb(100, 100, 206);
+}
+
+.btnReiniciar {
+    background-color: rgb(191, 96, 96);
+}
