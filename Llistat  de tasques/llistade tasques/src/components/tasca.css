@@ -1,0 +1,21 @@
+.tascaCompletada {
+    background-color: aquamarine;
+    text-decoration: line-through;
+}
+
+.tascaNoCompletada {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.tascaNoCompletada,
+.tascaNoCompletada button {
+    background-color: rgb(220, 113, 113);
+}
+
+.tascaCompletada p,
+.tascaNoCompletada p {
+    width: 100%;
+    height: 100%;
+}
