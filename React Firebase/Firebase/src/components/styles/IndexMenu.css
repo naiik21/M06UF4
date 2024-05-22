@@ -1,0 +1,8 @@
+.botones {
+    display: flex;
+    gap: 15px;
+}
+
+img {
+    width: 50px;
+}
